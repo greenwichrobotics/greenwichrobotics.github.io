@@ -1,10 +1,10 @@
 # Site settings
 title: TechKnowLogic
-email: 19agwin@greenwichcsd.org
+email: 
 url: localhost:4000/greenwichrobotics
 description: "TechKnowLogic is a robotics team associated with Greenwich Central School District. We are a group of students in 9-12 grade. During the competition season, we have only 6 weeks to build a robot specifically designed for each year's competition."
 keywords: "Greenwich, Robotics, TechKnowLogic, team, "
-skills: "Robotics Team - Design - Build - Teamwork"
+skills: "Design - Build - Teamwork"
 meta_author: Gwin Ashley
 
 # Google webmaster tools
