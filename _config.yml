@@ -1,0 +1,57 @@
+# Site settings
+title: TechKnowLogic
+email: 19agwin@greenwichcsd.org
+url: https://greenwichrobotics.github.io
+description: "TechKnowLogic is a robotics team associated with Greenwich Central School District. We are a group of students in 9-12 grade. During the competition season, we have only 6 weeks to build a robot specifically designed for each year's competition."
+keywords: "Greenwich, Robotics, TechKnowLogic, team, "
+skills: "Robotics Team - Design - Build - Teamwork"
+meta_author: Gwin Ashley
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Greenwich Robotics
+  location: Greenwich, NY
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 10 Gray Avenue
+  - line: Greenwich, NY 12834
+
+# Credits content
+credits: 'TechKnowLogic is a small FIRST Robotics Team from Greenwich, NY'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
