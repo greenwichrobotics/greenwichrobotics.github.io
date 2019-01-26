@@ -50,7 +50,7 @@ address:
   - line: Greenwich, NY 12834
 
 # Credits content
-credits: 'TechKnowLogic is a small FIRST Robotics Team from Greenwich, NY'
+About Us: 'TechKnowLogic is a small FIRST Robotics Team from Greenwich, NY'
 
 # Build settings
 markdown: kramdown
