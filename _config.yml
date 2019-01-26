@@ -33,9 +33,9 @@ color:
 # Footer settings
 footer:
   copyright: Greenwich Robotics
-  location: Greenwich, NY
-  social: Around the Web
-  credits: Credits
+  location: Location
+  social: Follow Us
+  credits: About Us
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -46,11 +46,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 10 Gray Avenue
-  - line: Greenwich, NY 12834
+  - line: Greenwich, NY 12834 
+  - line:
 
 # Credits content
-About Us: 'TechKnowLogic is a small FIRST Robotics Team from Greenwich, NY'
+credits: 'TechKnowLogic is a small FIRST Robotics Team from Greenwich, NY'
 
 # Build settings
 markdown: kramdown
