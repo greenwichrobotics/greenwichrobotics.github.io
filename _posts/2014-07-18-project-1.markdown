@@ -1,12 +1,11 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+date: 11-03-2018
+img: Competition1.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: November 2018
+category: Robot Rumble
+description: And We're back! We are back with the Robot Rumble in Ballston Spa, where we use our robot from last year's FIRST competition robot. During this rumble, we were able to teach some new members how the competition runs and what is expected of us. Each year, the Robot Rumble is a perfect way to get back into robotic mode, and to get ready for the exciting new season.
 
 ---
