@@ -1,12 +1,10 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: Techknowlogic.jpg
+date: 2019-28-01
+img: Workinghard.JPG
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: January 2019
+description: Come back for more news regarding our team. New updates are coming soon. Check out our Twitter and Facebook accounts for more about us.
 
 ---
