@@ -1,12 +1,10 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
+date: 2019-01
+img: Workinghard.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: January 2019
+description: Now that the 2019 competition season is in full swing, our team is hard at work. After long consideration, we have decided to focus on delivering hatches over cargo. In the past, we have tried to do to many tasks, which made us average, and this year we want to be really good at one specific task. Our second focus is to climb at the end of the match. For the past week, we have been prototyping, hoping that everything will come together in the end.
 
 ---
