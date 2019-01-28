@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 6
-date: 2019-28-01
+date: 2019-01-28
 img: Workinghard.JPG
 alt: image-alt
 project-date: January 2019
