@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-title: TestMe
+title: Robot Rumble 2019
 date: 11-03-2018
 img: Competition1.jpg
 alt: image-alt

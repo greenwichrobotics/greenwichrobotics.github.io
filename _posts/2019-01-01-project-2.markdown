@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 2
+title: New Season Kickoff
 date: 2019-01-01
 img: Newpic.JPG
 alt: image-alt
