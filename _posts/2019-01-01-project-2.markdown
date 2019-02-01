@@ -3,7 +3,7 @@ layout: default
 modal-id: 2
 title: New Season Kickoff
 date: 2019-01-01
-img: TylerCaleb.jpg
+img: Newpic.JPG
 alt: image-alt
 project-date: January 2019
 description: Now that the 2019 competition season is in full swing, our team is hard at work. After long consideration, we have decided to focus on delivering hatches over cargo. In the past, we have tried to do to many tasks, which made us average, and this year we want to be really good at one specific task. Our second focus is to climb at the end of the match. For the past week, we have been prototyping, hoping that everything will come together in the end.
