@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 title: Coming Soon!
-date: 2018-12-25
+date: 2018-10-25
 img: Davidprototype.JPG
 alt: image-alt
 project-date: January 2019

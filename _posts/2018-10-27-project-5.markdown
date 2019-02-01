@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 title: Coming Soon!
-date: 2019-01-28
+date: 2018-10-27
 img: Workinghard2.JPG
 alt: image-alt
 project-date: January 2019
