@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+title: Sponsor1
+date: 2018-11-03
+img: Competition1.jpg
+alt: image-alt
+project-date: November 2018
+description: And We're back! We are back with the Robot Rumble in Ballston Spa, where we use our robot from last year's FIRST competition robot. During this rumble, we were able to teach some new members how the competition runs and what is expected of us. Each year, the Robot Rumble is a perfect way to get back into robotic mode, and to get ready for the exciting new season.
+
+---
