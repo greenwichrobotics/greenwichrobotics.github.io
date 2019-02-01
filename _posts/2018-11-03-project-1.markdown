@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 title: Robot Rumble 2019
-date: 11-03-2018
+date: 2018-11-03
 img: Competition1.jpg
 alt: image-alt
 project-date: November 2018
