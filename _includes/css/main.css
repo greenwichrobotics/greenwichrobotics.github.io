@@ -252,6 +252,16 @@ section.success {
     }
 }
 
+@media(max-width:767px) {
+    section {
+        padding: 75px 0;
+    }
+
+    section.first {
+        padding-top: 75px;
+    }
+}
+
 #sponsors .sponsors-item {
     right: 0;
     margin: 0 0 15px;
