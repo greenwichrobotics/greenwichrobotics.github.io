@@ -2,8 +2,8 @@
 layout: default
 modal-id: 4
 title: Coming Soon!
-date: 2018-10-18
-img: GCS.jpg
+date: 2019-02-17
+img: greenwichcsd.jpg
 alt: image-alt
 project-date: January 2019
 description: Come back for more news regarding our team. New updates are coming soon. Check out our Twitter and Facebook accounts for more about us.
